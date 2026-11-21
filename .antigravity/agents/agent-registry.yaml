@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-togo-canal-and-intervention-historian
-  name: Togo Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-togo-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_tg_001
+    name: Togo Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_002
+    name: Togo Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_003
+    name: Togo Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_004
+    name: Togo Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_005
+    name: Togo Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_006
+    name: Togo Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_007
+    name: Togo Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_008
+    name: Togo Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_009
+    name: Togo Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_010
+    name: Togo Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_011
+    name: Togo Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_012
+    name: Togo Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_013
+    name: Togo Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_014
+    name: Togo Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_015
+    name: Togo Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_016
+    name: Togo Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_017
+    name: Togo Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_018
+    name: Togo Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_019
+    name: Togo Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_020
+    name: Togo Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_021
+    name: Togo Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_022
+    name: Togo Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_023
+    name: Togo Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_024
+    name: Togo Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_025
+    name: Togo Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_026
+    name: Togo Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_027
+    name: Togo Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_028
+    name: Togo Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_029
+    name: Togo Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_030
+    name: Togo Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_031
+    name: Togo Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_032
+    name: Togo Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_033
+    name: Togo Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_034
+    name: Togo Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_035
+    name: Togo Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_036
+    name: Togo Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_037
+    name: Togo Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_038
+    name: Togo Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_039
+    name: Togo Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_040
+    name: Togo Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_041
+    name: Togo Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_042
+    name: Togo Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_043
+    name: Togo Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_044
+    name: Togo Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_045
+    name: Togo Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_046
+    name: Togo Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_047
+    name: Togo Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_048
+    name: Togo Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_049
+    name: Togo Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_050
+    name: Togo Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_051
+    name: Togo Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_052
+    name: Togo Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_053
+    name: Togo Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_054
+    name: Togo Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_055
+    name: Togo Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_056
+    name: Togo Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_057
+    name: Togo Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_058
+    name: Togo Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_059
+    name: Togo Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_060
+    name: Togo Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_061
+    name: Togo Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_062
+    name: Togo Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_063
+    name: Togo Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_064
+    name: Togo Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_065
+    name: Togo Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_066
+    name: Togo Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_067
+    name: Togo Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_068
+    name: Togo Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_069
+    name: Togo Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_070
+    name: Togo Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_071
+    name: Togo Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_072
+    name: Togo Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_073
+    name: Togo Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_074
+    name: Togo Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_075
+    name: Togo Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_076
+    name: Togo Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_077
+    name: Togo Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_078
+    name: Togo Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_079
+    name: Togo Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_080
+    name: Togo Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_081
+    name: Togo Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_082
+    name: Togo Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_083
+    name: Togo Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_084
+    name: Togo Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_085
+    name: Togo Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_086
+    name: Togo Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_087
+    name: Togo Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_088
+    name: Togo Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_089
+    name: Togo Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_090
+    name: Togo Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_091
+    name: Togo Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_092
+    name: Togo Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_093
+    name: Togo Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_094
+    name: Togo Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_095
+    name: Togo Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_096
+    name: Togo Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_097
+    name: Togo Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_098
+    name: Togo Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_099
+    name: Togo Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_100
+    name: Togo Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_101
+    name: Togo Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_102
+    name: Togo Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_103
+    name: Togo Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_104
+    name: Togo Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_105
+    name: Togo Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_106
+    name: Togo Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_107
+    name: Togo Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_108
+    name: Togo Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_109
+    name: Togo Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_110
+    name: Togo Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_111
+    name: Togo Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_112
+    name: Togo Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_113
+    name: Togo Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_114
+    name: Togo Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_115
+    name: Togo Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_116
+    name: Togo Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_117
+    name: Togo Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_118
+    name: Togo Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_119
+    name: Togo Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_120
+    name: Togo Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_121
+    name: Togo Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_122
+    name: Togo Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_123
+    name: Togo Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_124
+    name: Togo Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_125
+    name: Togo Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_126
+    name: Togo Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_127
+    name: Togo Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_128
+    name: Togo Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_129
+    name: Togo Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_130
+    name: Togo Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_131
+    name: Togo Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_132
+    name: Togo Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_133
+    name: Togo Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_134
+    name: Togo Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_135
+    name: Togo Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_136
+    name: Togo Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_137
+    name: Togo Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_138
+    name: Togo Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_139
+    name: Togo Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_140
+    name: Togo Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_141
+    name: Togo Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_142
+    name: Togo Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_143
+    name: Togo Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_144
+    name: Togo Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_145
+    name: Togo Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_146
+    name: Togo Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_147
+    name: Togo Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_148
+    name: Togo Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_149
+    name: Togo Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_150
+    name: Togo Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_151
+    name: Togo Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_152
+    name: Togo Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_153
+    name: Togo Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_154
+    name: Togo Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_155
+    name: Togo Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_156
+    name: Togo Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_157
+    name: Togo Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_158
+    name: Togo Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_159
+    name: Togo Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_160
+    name: Togo Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_161
+    name: Togo Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_162
+    name: Togo Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_163
+    name: Togo Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_164
+    name: Togo Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_165
+    name: Togo Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_166
+    name: Togo Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_167
+    name: Togo Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_168
+    name: Togo Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_169
+    name: Togo Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tg_170
+    name: Togo Agent 170
+    status: ACTIVE_SCAFFOLD
