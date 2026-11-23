@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=togo+colonial+forced+labor+german+french",
+  "final_url": "https://www.loc.gov/item/?q=togo+colonial+forced+labor+german+french",
+  "title": "Library of Congress - Togo",
+  "fetched_at": "2026-11-23T08:01:07.884337Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44799,
+  "sha256": "b56c961e037b8d522af08ac2e01c1758b2e05726e7a6d354760e8e69a6655de6",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

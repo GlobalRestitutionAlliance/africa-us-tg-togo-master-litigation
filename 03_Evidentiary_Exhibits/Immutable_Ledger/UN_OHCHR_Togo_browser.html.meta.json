@@ -1,0 +1,18 @@
+{
+  "url": "https://www.ohchr.org/en/countries/togo",
+  "final_url": "https://www.ohchr.org/en/countries/togo",
+  "title": "UN OHCHR Togo",
+  "fetched_at": "2026-11-23T08:01:07.882834Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80020,
+  "sha256": "5adcd1607cade9fc1d026c90054354ef6a2e8118e36aba9bb95865b93d1601a4",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_BROWSER_CAPTURE_PENDING_LEGAL_REVIEW",
+  "annotation_note": "Browser capture treated as substantive for indexing; content/authenticity remains PENDING_LEGAL_REVIEW."
+}
